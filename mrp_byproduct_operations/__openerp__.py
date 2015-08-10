@@ -22,10 +22,6 @@
 {
     "name": "MRP byproduct Operations",
     "version": "1.0",
-    "description": """
-    This module allows to add the operation on BoM where the secondary products
-    will be produced.
-    """,
     "author": "OdooMRP team,"
               "AvanzOSC,"
               "Serv. Tecnol. Avanzados - Pedro M. Baeza",
